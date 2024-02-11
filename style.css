@@ -1,0 +1,13 @@
+body
+{
+background-size:cover;
+}
+
+.div h1{
+    font-size:26px;
+}
+
+#start, #status
+{
+    width:100%;
+}
